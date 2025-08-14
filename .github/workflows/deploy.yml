@@ -1,4 +1,4 @@
-name: Flask CI/CD to AWS EC2
+name: Flask Application Pipeline
 
 on:
   push:
