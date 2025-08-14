@@ -1,8 +1,5 @@
-Got it — here’s a **simpler README** you can drop into your repo without overloading it.
 
----
 
-````markdown
 # Flask CI/CD with Docker and AWS EC2
 
 ## 📌 Overview
@@ -67,9 +64,3 @@ http://<EC2_PUBLIC_IP>:5000
 * Use Load Balancer
 * Switch to ECS Fargate
 
-```
-
----
-
-Do you want me to also make **a short pipeline diagram** so your README looks visually appealing? That would help for your internship submission.
-```
